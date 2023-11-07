@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SportWidget</string>
+    <string name="featured_sport_text">Featured Sport</string>
+    <string name="error_placeholder_text">Something went wrong. Error: %1s</string>
+</resources>
